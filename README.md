@@ -37,6 +37,7 @@ Cada herramienta lleva una marca para saber en qué punto estoy con ella:
 | 13 | [Ingeniería Social](categorias/13-ingenieria-social.md) | Simulaciones de phishing autorizadas |
 | 14 | [Distros, Labs y Práctica](categorias/14-labs-practica.md) | Entornos para entrenar |
 | 15 | [Wordlists y Recursos](categorias/15-wordlists-recursos.md) | Diccionarios, cheatsheets, referencias |
+| 16 | [Anonimato y Evasión](categorias/16-anonimato-evasion.md) | Proxies, VPN, Tor, evasión de censura |
 
 ---
 
