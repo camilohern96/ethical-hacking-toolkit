@@ -1,8 +1,6 @@
 # 🛡️ Ethical Hacking Toolkit
 
-Repositorio **colaborativo** para consolidar las herramientas del mundo del Ethical Hacking / Pentesting, organizadas por fase de una auditoría. Nació como catálogo personal, pero está **abierto a la comunidad**: cualquiera puede proponer herramientas, recursos o correcciones.
-
-> 🤝 **¿Quieres aportar?** ¡Las contribuciones son bienvenidas! Mira [cómo agregar una herramienta](#-cómo-agregar-una-herramienta) y envía tu propuesta mediante un *Pull Request*. Cada aporte se revisa antes de incorporarse.
+Repositorio personal donde consolido las herramientas que **he utilizado** o que **conozco** en el mundo del Ethical Hacking / Pentesting, organizadas por fase de una auditoría.
 
 > ⚠️ **Aviso legal:** Todo el contenido de este repositorio tiene fines **educativos** y está pensado para usarse **únicamente** en sistemas propios, laboratorios o entornos donde exista **autorización expresa y por escrito**. El uso no autorizado de estas herramientas es ilegal. Ver [DISCLAIMER.md](DISCLAIMER.md).
 
@@ -48,39 +46,12 @@ Cada herramienta lleva una marca para saber en qué punto estoy con ella:
 ethical-hacking-toolkit/
 ├── README.md              ← Índice general (este archivo)
 ├── DISCLAIMER.md          ← Aviso legal y uso ético
-├── CONTRIBUTING.md        ← Cómo agregar herramientas
 ├── LICENSE
 ├── categorias/            ← Una ficha por categoría con tablas de herramientas
 ├── notas/                 ← Apuntes propios, writeups, comandos favoritos
 ├── scripts/               ← Scripts propios (helpers, automatizaciones)
 └── plantillas/            ← Plantilla para documentar nuevas herramientas
 ```
-
----
-
-## ➕ Cómo agregar una herramienta
-
-Este repositorio es **colaborativo** y funciona por *Pull Requests*: tú propones el cambio y el mantenedor lo revisa antes de publicarlo.
-
-### Flujo de contribución
-
-1. Haz un **fork** del repositorio (o crea una rama, si tienes acceso de colaborador).
-2. Abre el archivo de la categoría correspondiente en `categorias/`.
-3. Añade una fila a la tabla con: nombre, descripción, enlace oficial y estado (✅ 📚 🎯).
-4. Si quieres documentarla a fondo, copia [`plantillas/herramienta.md`](plantillas/herramienta.md) a `notas/` y complétala.
-5. Haz *commit* con un mensaje claro, por ejemplo: `feat(web): agregar ffuf`.
-6. Abre un **Pull Request** hacia la rama `main`.
-
-### Revisión y aprobación
-
-> 📝 **Cada Pull Request pasa por una revisión del mantenedor**, que puede:
-> - ✅ **Aprobarlo** → se fusiona a `main` y queda publicado.
-> - 💬 **Pedir cambios** → se comenta qué ajustar antes de aceptarlo.
-> - ❌ **Rechazarlo** → si no encaja con el propósito del repo.
->
-> Ningún aporte se publica directamente: todo pasa primero por esta revisión.
-
-Convenciones completas (formato, estilo, commits) en [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
