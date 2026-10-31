@@ -1,6 +1,13 @@
-# 🤝 Cómo contribuir / mantener este repositorio
+# 🤝 Cómo contribuir
 
-Este es un repositorio personal de consulta. Estas son las convenciones para mantenerlo ordenado.
+Este es un repositorio **colaborativo**. ¡Gracias por querer aportar! Estas son las convenciones para mantenerlo ordenado y que tu propuesta se acepte sin fricción.
+
+## Flujo general
+
+1. Haz un **fork** del repositorio (o una rama, si eres colaborador).
+2. Haz tus cambios siguiendo las convenciones de abajo.
+3. Abre un **Pull Request** hacia `main`.
+4. El mantenedor revisa y **aprueba**, **pide cambios** o **rechaza** la propuesta. Ningún cambio llega a `main` sin esa revisión.
 
 ## Agregar una herramienta
 
@@ -12,11 +19,12 @@ Este es un repositorio personal de consulta. Estas son las convenciones para man
    ```
 
 3. Usa la marca de **estado** adecuada:
-   - ✅ La he utilizado
-   - 📚 La conozco
-   - 🎯 Por aprender
+   - ✅ Utilizada
+   - 📚 Conocida
+   - 🎯 Por aprender / probar
 
 4. Mantén las descripciones **cortas y neutrales** (qué hace la herramienta, no cómo atacar).
+5. Enlaza siempre a la **fuente oficial** (sitio o repositorio del proyecto).
 
 ## Documentar una herramienta a fondo
 
