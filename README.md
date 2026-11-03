@@ -1,6 +1,8 @@
 # 🛡️ Ethical Hacking Toolkit
 
-Repositorio personal donde consolido las herramientas que **he utilizado** o que **conozco** en el mundo del Ethical Hacking / Pentesting, organizadas por fase de una auditoría.
+Repositorio de **referencia pública** que consolida herramientas del mundo del Ethical Hacking / Pentesting, organizadas por fase de una auditoría. Su objetivo es servir de consulta a la comunidad de hackers éticos.
+
+> 📖 **Solo lectura.** Este repositorio lo mantiene su autor y **no acepta contribuciones externas** (ni *pull requests* ni *issues*). Eres libre de consultarlo y de hacer un *fork* para tu uso personal.
 
 > ⚠️ **Aviso legal:** Todo el contenido de este repositorio tiene fines **educativos** y está pensado para usarse **únicamente** en sistemas propios, laboratorios o entornos donde exista **autorización expresa y por escrito**. El uso no autorizado de estas herramientas es ilegal. Ver [DISCLAIMER.md](DISCLAIMER.md).
 
