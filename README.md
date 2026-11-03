@@ -40,6 +40,7 @@ Cada herramienta lleva una marca para saber en qué punto estoy con ella:
 | 16 | [Anonimato y Evasión](categorias/16-anonimato-evasion.md) | Proxies, VPN, Tor, evasión de censura |
 | 17 | [Malware (conceptos y familias)](categorias/17-malware.md) | Troyanos, crypters, exploit kits (referencia) |
 | 18 | [Esteganografía](categorias/18-esteganografia.md) | Ocultar datos en imagen/audio/video y detección |
+| 19 | [DoS/DDoS y Secuestro de Sesiones](categorias/19-dos-session.md) | Pruebas de DoS, session hijacking y defensas |
 
 ---
 
