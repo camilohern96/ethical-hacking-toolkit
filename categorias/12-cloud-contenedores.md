@@ -1,27 +1,58 @@
 # 12 · Cloud y Contenedores
 
-Catálogo de herramientas para auditar configuraciones de nube, contenedores y Kubernetes.
+Auditoría de configuraciones de nube (AWS, Azure, GCP), buckets de almacenamiento, contenedores y Kubernetes.
 
 [⬅ Volver al índice](../README.md)
 
-## Cloud (AWS / Azure / GCP)
+> Leyenda de estado: ✅ utilizada · 📚 conocida · 🎯 por aprender
 
-| Herramienta | Descripción | Enlace | Estado |
-|-------------|-------------|--------|:------:|
-| ScoutSuite | Auditoría de configuración multi-nube | [GitHub](https://github.com/nccgroup/ScoutSuite) | 📚 |
-| Prowler | Evaluación de seguridad y cumplimiento (AWS/Azure/GCP) | [GitHub](https://github.com/prowler-cloud/prowler) | 📚 |
-| Pacu | Framework de pruebas de seguridad en AWS | [GitHub](https://github.com/RhinoSecurityLabs/pacu) | 🎯 |
-| CloudFox | Enumeración de superficie de ataque en la nube | [GitHub](https://github.com/BishopFox/cloudfox) | 🎯 |
+---
 
-## Contenedores / Kubernetes
+## ☁️ Auditoría multi-nube
 
-| Herramienta | Descripción | Enlace | Estado |
-|-------------|-------------|--------|:------:|
-| Trivy | Escaneo de imágenes, IaC y repos | [GitHub](https://github.com/aquasecurity/trivy) | 📚 |
-| kube-hunter | Búsqueda de debilidades en clústeres Kubernetes | [GitHub](https://github.com/aquasecurity/kube-hunter) | 📚 |
-| kube-bench | Comprobación del CIS Benchmark de Kubernetes | [GitHub](https://github.com/aquasecurity/kube-bench) | 📚 |
-| Grype | Escáner de vulnerabilidades de imágenes | [GitHub](https://github.com/anchore/grype) | 🎯 |
-| Docker Bench | Buenas prácticas de seguridad en Docker | [GitHub](https://github.com/docker/docker-bench-security) | 📚 |
+| Herramienta | Para qué sirve | Enlace | Estado |
+|-------------|----------------|--------|:------:|
+| ScoutSuite | Auditoría de configuración de seguridad en AWS, Azure y GCP. | [Enlace](https://github.com/nccgroup/ScoutSuite) | 📚 |
+| Prowler | Evaluación de seguridad y cumplimiento (AWS/Azure/GCP/K8s). | [Enlace](https://github.com/prowler-cloud/prowler) | 📚 |
+| CloudFox | Enumera la superficie de ataque y rutas de escalada en la nube. | [Enlace](https://github.com/BishopFox/cloudfox) | 🎯 |
+
+## 🟠 AWS
+
+| Herramienta | Para qué sirve | Enlace | Estado |
+|-------------|----------------|--------|:------:|
+| Pacu | Framework de explotación y post-explotación para AWS. | [Enlace](https://github.com/RhinoSecurityLabs/pacu) | 🎯 |
+| S3Scanner | Encuentra y evalúa buckets S3 abiertos. | [Enlace](https://github.com/sa7mon/S3Scanner) | 🎯 |
+| lazys3 | Enumera buckets S3 por diccionario de nombres. | [Enlace](https://github.com/nahamsec/lazys3) | 🎯 |
+| Bucket Finder | Busca y lista buckets S3 accesibles. | [Enlace](https://digi.ninja/projects/bucket_finder.php) | 🎯 |
+| s3-buckets-bruteforcer | Fuerza bruta de nombres de buckets S3. | [Enlace](https://github.com/gwen001/s3-buckets-finder) | 🎯 |
+
+## 🔵 Azure
+
+| Herramienta | Para qué sirve | Enlace | Estado |
+|-------------|----------------|--------|:------:|
+| Azucar | Evalúa la postura de seguridad de un entorno Azure. | [Enlace](https://github.com/nccgroup/azucar) | 🎯 |
+
+## 🐳 Contenedores y Kubernetes
+
+| Herramienta | Para qué sirve | Enlace | Estado |
+|-------------|----------------|--------|:------:|
+| Trivy | Escaneo de vulnerabilidades en imágenes, repos e IaC. | [Enlace](https://github.com/aquasecurity/trivy) | 📚 |
+| Grype | Escáner de vulnerabilidades de imágenes de contenedor. | [Enlace](https://github.com/anchore/grype) | 🎯 |
+| kube-hunter | Busca debilidades explotables en clústeres Kubernetes. | [Enlace](https://github.com/aquasecurity/kube-hunter) | 📚 |
+| kube-bench | Comprueba el CIS Benchmark de Kubernetes. | [Enlace](https://github.com/aquasecurity/kube-bench) | 📚 |
+| Kube-Scan | Puntúa el riesgo de las cargas de trabajo en Kubernetes. | [Enlace](https://github.com/octarinesec/kube-scan) | 🎯 |
+| Kubesec | Análisis de riesgo de manifiestos de Kubernetes. | [Enlace](https://kubesec.io) | 🎯 |
+| KubiScan | Detecta roles y cuentas con privilegios peligrosos en Kubernetes (CyberArk). | [Enlace](https://github.com/cyberark/KubiScan) | 🎯 |
+| Sysdig | Seguridad y monitoreo de contenedores y Kubernetes en tiempo de ejecución. | [Enlace](https://sysdig.com) | 🎯 |
+| Docker Bench for Security | Comprueba buenas prácticas de seguridad en Docker. | [Enlace](https://github.com/docker/docker-bench-security) | 📚 |
+
+## 🔑 Búsqueda de secretos
+
+| Herramienta | Para qué sirve | Enlace | Estado |
+|-------------|----------------|--------|:------:|
+| DumpsterDiver | Busca secretos y claves (alta entropía) en archivos y repos. | [Enlace](https://github.com/securing/DumpsterDiver) | 🎯 |
+
+---
 
 ## 📖 Referencias
 - [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks)
