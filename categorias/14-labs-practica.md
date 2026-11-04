@@ -4,7 +4,9 @@ Dónde entrenar legalmente y con qué sistemas trabajar.
 
 [⬅ Volver al índice](../README.md)
 
-> Estado: ✅ utilizada · 📚 conocida · 🎯 por aprender — Precio: 🆓 gratuita · 🟡 freemium · 💰 de pago
+> **Estado:** ✅ la he utilizado · 📚 la conozco · 🎯 por aprender
+>
+> **Precio:** 🆓 gratuita / open source · 🟡 freemium (versión gratis + funciones de pago) · 💰 de pago
 
 ## Distribuciones
 

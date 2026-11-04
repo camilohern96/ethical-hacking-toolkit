@@ -4,7 +4,9 @@ Herramientas para **simulaciones de phishing y concienciación autorizadas** (ca
 
 [⬅ Volver al índice](../README.md)
 
-> Leyenda de estado: ✅ utilizada · 📚 conocida · 🎯 por aprender
+> **Estado:** ✅ la he utilizado · 📚 la conozco · 🎯 por aprender
+>
+> **Precio:** 🆓 gratuita / open source · 🟡 freemium (versión gratis + funciones de pago) · 💰 de pago
 
 > 🔒 Estas herramientas solo deben usarse en **campañas internas aprobadas**, con alcance definido y consentimiento de la organización. El phishing fuera de ese marco es un delito.
 

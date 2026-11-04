@@ -4,7 +4,9 @@ Herramientas para **ocultar el origen** del tráfico, enmascarar la IP y evadir 
 
 [⬅ Volver al índice](../README.md)
 
-> Leyenda de estado: ✅ utilizada · 📚 conocida · 🎯 por aprender
+> **Estado:** ✅ la he utilizado · 📚 la conozco · 🎯 por aprender
+>
+> **Precio:** 🆓 gratuita / open source · 🟡 freemium (versión gratis + funciones de pago) · 💰 de pago
 
 > 🔒 El anonimato se usa para proteger la operación dentro de un compromiso autorizado, nunca para evadir responsabilidad legal.
 

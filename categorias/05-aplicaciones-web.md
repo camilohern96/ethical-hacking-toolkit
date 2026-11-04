@@ -4,7 +4,9 @@ Pruebas de seguridad sobre aplicaciones y servidores web: proxies de intercepci�
 
 [⬅ Volver al índice](../README.md)
 
-> Leyenda de estado: ✅ utilizada · 📚 conocida · 🎯 por aprender
+> **Estado:** ✅ la he utilizado · 📚 la conozco · 🎯 por aprender
+>
+> **Precio:** 🆓 gratuita / open source · 🟡 freemium (versión gratis + funciones de pago) · 💰 de pago
 
 ---
 

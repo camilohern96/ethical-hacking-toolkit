@@ -4,7 +4,9 @@ Herramientas para pruebas de **denegación de servicio** y **secuestro de sesion
 
 [⬅ Volver al índice](../README.md)
 
-> Leyenda de estado: ✅ utilizada · 📚 conocida · 🎯 por aprender
+> **Estado:** ✅ la he utilizado · 📚 la conozco · 🎯 por aprender
+>
+> **Precio:** 🆓 gratuita / open source · 🟡 freemium (versión gratis + funciones de pago) · 💰 de pago
 
 > 🔒 Las pruebas de DoS solo deben ejecutarse contra infraestructura **propia** o con autorización escrita y ventana acordada. Un ataque DoS no autorizado es delito y puede afectar a terceros.
 
