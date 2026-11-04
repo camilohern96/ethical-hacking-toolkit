@@ -18,6 +18,14 @@ Cada herramienta lleva una marca para saber en qué punto estoy con ella:
 | 📚 | La **conozco** (teoría, documentación, cursos) |
 | 🎯 | **Por aprender** / pendiente de probar |
 
+## 💲 Leyenda de precio
+
+| Marca | Significado |
+|:-----:|-------------|
+| 🆓 | **Gratuita** / open source |
+| 🟡 | **Freemium** (versión gratis + funciones de pago) |
+| 💰 | **De pago** / comercial |
+
 ---
 
 ## 📂 Categorías
