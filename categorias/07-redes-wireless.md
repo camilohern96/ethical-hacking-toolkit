@@ -4,7 +4,9 @@ Análisis de tráfico, ataques de capa 2 (DHCP, ARP, DNS, MAC) y auditoría WiFi
 
 [⬅ Volver al índice](../README.md)
 
-> Leyenda de estado: ✅ utilizada · 📚 conocida · 🎯 por aprender
+> **Estado:** ✅ la he utilizado · 📚 la conozco · 🎯 por aprender
+>
+> **Precio:** 🆓 gratuita / open source · 🟡 freemium (versión gratis + funciones de pago) · 💰 de pago
 
 > 🔒 Captura y analiza únicamente tráfico de redes propias o con autorización escrita.
 

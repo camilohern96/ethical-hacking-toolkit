@@ -4,7 +4,9 @@ Catálogo de herramientas para análisis de aplicaciones Android e iOS.
 
 [⬅ Volver al índice](../README.md)
 
-> Estado: ✅ utilizada · 📚 conocida · 🎯 por aprender — Precio: 🆓 gratuita · 🟡 freemium · 💰 de pago
+> **Estado:** ✅ la he utilizado · 📚 la conozco · 🎯 por aprender
+>
+> **Precio:** 🆓 gratuita / open source · 🟡 freemium (versión gratis + funciones de pago) · 💰 de pago
 
 | Herramienta | Descripción | Enlace | Precio | Estado |
 |-------------|-------------|--------|:------:|:------:|
