@@ -16,10 +16,10 @@ Herramientas para **simulaciones de phishing y concienciación autorizadas** (ca
 
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
-| Gophish | Plataforma open source para diseñar y medir campañas de phishing autorizadas. | [Enlace](https://getgophish.com) | 🆓 | 📚 |
-| Social-Engineer Toolkit (SET) | Framework de referencia para vectores de ingeniería social. | [Enlace](https://github.com/trustedsec/social-engineer-toolkit) | 🆓 | 📚 |
+| Gophish | Plataforma open source para diseñar y medir campañas de phishing autorizadas. | [Enlace](https://getgophish.com) | 🆓 | ✅ |
+| Social-Engineer Toolkit (SET) | Framework de referencia para vectores de ingeniería social. | [Enlace](https://github.com/trustedsec/social-engineer-toolkit) | 🆓 | ✅ |
 | King Phisher | Simulación de campañas de phishing con plantillas y seguimiento. | [Enlace](https://github.com/rsmusllp/king-phisher) | 🆓 | 📚 |
-| SpeedPhish Framework (SPF) | Automatiza el reconocimiento y envío de campañas de phishing. | [Enlace](https://github.com/tatanus/SPF) | 🆓 | 🎯 |
+| SpeedPhish Framework (SPF) | Automatiza el reconocimiento y envío de campañas de phishing. | [Enlace](https://github.com/tatanus/SPF) | 🆓 | ✅ |
 | LUCY Security | Plataforma comercial de simulación y formación anti-phishing. | [Enlace](https://lucysecurity.com) | 💰 | 🎯 |
 | OhPhish | Plataforma de EC-Council para campañas de phishing y métricas. | [Enlace](https://www.eccouncil.org/ohphish/) | 💰 | 🎯 |
 
@@ -39,10 +39,10 @@ Herramientas para **simulaciones de phishing y concienciación autorizadas** (ca
 
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
-| VirusTotal | Analiza URLs y archivos con decenas de motores antivirus. | [Enlace](https://www.virustotal.com) | 🟡 | 📚 |
-| PhishTank | Base colaborativa de URLs de phishing reportadas. | [Enlace](https://phishtank.org) | 🆓 | 📚 |
-| Netcraft | Verifica y reporta sitios de phishing; extensión de navegador. | [Enlace](https://www.netcraft.com) | 🆓 | 📚 |
-| ScanURL | Comprueba la reputación de una URL sospechosa. | [Enlace](https://scanurl.net) | 🆓 | 🎯 |
+| VirusTotal | Analiza URLs y archivos con decenas de motores antivirus. | [Enlace](https://www.virustotal.com) | 🟡 | ✅ |
+| PhishTank | Base colaborativa de URLs de phishing reportadas. | [Enlace](https://phishtank.org) | 🆓 | ✅ |
+| Netcraft | Verifica y reporta sitios de phishing; extensión de navegador. | [Enlace](https://www.netcraft.com) | 🆓 | ✅ |
+| ScanURL | Comprueba la reputación de una URL sospechosa. | [Enlace](https://scanurl.net) | 🆓 | ✅ |
 | isitPhishing | Analiza si una URL es de phishing. | [Enlace](https://isitphishing.org) | 🆓 | 🎯 |
 | ThreatCop | Simulación y concienciación anti-phishing para empleados. | [Enlace](https://www.threatcop.ai) | 💰 | 🎯 |
 | EmailVeritas | Protección y verificación contra phishing por correo. | [Enlace](https://www.emailveritas.com) | 💰 | 🎯 |

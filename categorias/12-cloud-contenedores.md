@@ -23,10 +23,10 @@ Auditoría de configuraciones de nube (AWS, Azure, GCP), buckets de almacenamien
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
 | Pacu | Framework de explotación y post-explotación para AWS. | [Enlace](https://github.com/RhinoSecurityLabs/pacu) | 🆓 | 🎯 |
-| S3Scanner | Encuentra y evalúa buckets S3 abiertos. | [Enlace](https://github.com/sa7mon/S3Scanner) | 🆓 | 🎯 |
-| lazys3 | Enumera buckets S3 por diccionario de nombres. | [Enlace](https://github.com/nahamsec/lazys3) | 🆓 | 🎯 |
+| S3Scanner | Encuentra y evalúa buckets S3 abiertos. | [Enlace](https://github.com/sa7mon/S3Scanner) | 🆓 | ✅ |
+| lazys3 | Enumera buckets S3 por diccionario de nombres. | [Enlace](https://github.com/nahamsec/lazys3) | 🆓 | ✅ |
 | Bucket Finder | Busca y lista buckets S3 accesibles. | [Enlace](https://digi.ninja/projects/bucket_finder.php) | 🆓 | 🎯 |
-| s3-buckets-bruteforcer | Fuerza bruta de nombres de buckets S3. | [Enlace](https://github.com/gwen001/s3-buckets-finder) | 🆓 | 🎯 |
+| s3-buckets-bruteforcer | Fuerza bruta de nombres de buckets S3. | [Enlace](https://github.com/gwen001/s3-buckets-finder) | 🆓 | ✅ |
 
 ## 🔵 Azure
 
@@ -38,7 +38,7 @@ Auditoría de configuraciones de nube (AWS, Azure, GCP), buckets de almacenamien
 
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
-| Trivy | Escaneo de vulnerabilidades en imágenes, repos e IaC. | [Enlace](https://github.com/aquasecurity/trivy) | 🆓 | 📚 |
+| Trivy | Escaneo de vulnerabilidades en imágenes, repos e IaC. | [Enlace](https://github.com/aquasecurity/trivy) | 🆓 | ✅ |
 | Grype | Escáner de vulnerabilidades de imágenes de contenedor. | [Enlace](https://github.com/anchore/grype) | 🆓 | 🎯 |
 | kube-hunter | Busca debilidades explotables en clústeres Kubernetes. | [Enlace](https://github.com/aquasecurity/kube-hunter) | 🆓 | 📚 |
 | kube-bench | Comprueba el CIS Benchmark de Kubernetes. | [Enlace](https://github.com/aquasecurity/kube-bench) | 🆓 | 📚 |
@@ -52,7 +52,7 @@ Auditoría de configuraciones de nube (AWS, Azure, GCP), buckets de almacenamien
 
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
-| DumpsterDiver | Busca secretos y claves (alta entropía) en archivos y repos. | [Enlace](https://github.com/securing/DumpsterDiver) | 🆓 | 🎯 |
+| DumpsterDiver | Busca secretos y claves (alta entropía) en archivos y repos. | [Enlace](https://github.com/securing/DumpsterDiver) | 🆓 | ✅ |
 
 ---
 
