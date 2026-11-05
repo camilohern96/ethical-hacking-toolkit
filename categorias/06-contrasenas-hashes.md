@@ -15,37 +15,37 @@ Ataques a credenciales en entornos autorizados: *password spraying*, fuerza brut
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
 | CrackMapExec / NetExec | "Navaja suiza" para evaluar redes AD; incluye *spraying* de credenciales (NetExec es su sucesor mantenido). | [Enlace](https://github.com/Pennyw0rth/NetExec) | 🆓 | 📚 |
-| Kerbrute | Enumera y prueba credenciales contra Kerberos (AD). | [Enlace](https://github.com/ropnop/kerbrute) | 🆓 | 📚 |
+| Kerbrute | Enumera y prueba credenciales contra Kerberos (AD). | [Enlace](https://github.com/ropnop/kerbrute) | 🆓 | ✅ |
 | Invoke-DomainPasswordSpray | Script PowerShell para *spraying* de contraseñas en un dominio. | [Enlace](https://github.com/dafthack/DomainPasswordSpray) | 🆓 | 🎯 |
-| Spray | Herramienta de *password spraying* controlado (evita bloqueos). | [Enlace](https://github.com/Greenwolf/Spray) | 🆓 | 🎯 |
-| Omnispray | Framework modular de *spraying* y enumeración de usuarios. | [Enlace](https://github.com/0xZDH/omnispray) | 🆓 | 🎯 |
+| Spray | Herramienta de *password spraying* controlado (evita bloqueos). | [Enlace](https://github.com/Greenwolf/Spray) | 🆓 | ✅ |
+| Omnispray | Framework modular de *spraying* y enumeración de usuarios. | [Enlace](https://github.com/0xZDH/omnispray) | 🆓 | ✅ |
 
 ## 🔓 Cracking offline de hashes
 
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
-| Hashcat | Cracking de hashes acelerado por GPU, el más rápido y versátil. | [Enlace](https://hashcat.net/hashcat/) | 🆓 | 📚 |
-| John the Ripper | Cracking de hashes clásico, con utilidades `*2john` para múltiples formatos. | [Enlace](https://www.openwall.com/john/) | 🆓 | 📚 |
-| RainbowCrack (rtgen) | Descifra hashes usando *rainbow tables* precalculadas. | [Enlace](https://project-rainbowcrack.com) | 🆓 | 🎯 |
+| Hashcat | Cracking de hashes acelerado por GPU, el más rápido y versátil. | [Enlace](https://hashcat.net/hashcat/) | 🆓 | ✅ |
+| John the Ripper | Cracking de hashes clásico, con utilidades `*2john` para múltiples formatos. | [Enlace](https://www.openwall.com/john/) | 🆓 | ✅ |
+| RainbowCrack (rtgen) | Descifra hashes usando *rainbow tables* precalculadas. | [Enlace](https://project-rainbowcrack.com) | 🆓 | ✅ |
 | ophcrack | Recupera contraseñas de Windows mediante *rainbow tables*. | [Enlace](https://ophcrack.sourceforge.io) | 🆓 | 🎯 |
-| L0phtCrack | Auditor de contraseñas de Windows (ahora de código abierto). | [Enlace](https://www.l0phtcrack.com) | 🆓 | 🎯 |
+| L0phtCrack | Auditor de contraseñas de Windows (ahora de código abierto). | [Enlace](https://www.l0phtcrack.com) | 🆓 | ✅ |
 | CrackStation | Servicio web que busca hashes en tablas precalculadas. | [Enlace](https://crackstation.net/) | 🆓 | 📚 |
 
 ## 🌐 Fuerza bruta online
 
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
-| THC-Hydra | Fuerza bruta online contra decenas de protocolos (SSH, RDP, HTTP, etc.). | [Enlace](https://github.com/vanhauser-thc/thc-hydra) | 🆓 | 📚 |
-| Medusa | Fuerza bruta online paralela y modular. | [Enlace](https://github.com/jmk-foofus/medusa) | 🆓 | 📚 |
+| THC-Hydra | Fuerza bruta online contra decenas de protocolos (SSH, RDP, HTTP, etc.). | [Enlace](https://github.com/vanhauser-thc/thc-hydra) | 🆓 | ✅ |
+| Medusa | Fuerza bruta online paralela y modular. | [Enlace](https://github.com/jmk-foofus/medusa) | 🆓 | ✅ |
 | Secure Shell Bruteforcer (SSB) | Fuerza bruta rápida específica para SSH. | [Enlace](https://github.com/HightechSec/ssb) | 🆓 | 🎯 |
 
 ## 🗝️ Extracción / volcado de hashes
 
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
-| Mimikatz | Extrae contraseñas, hashes y tickets Kerberos de la memoria de Windows. | [Enlace](https://github.com/gentilkiwi/mimikatz) | 🆓 | 📚 |
-| pwdump7 | Vuelca los hashes de la SAM de Windows. | [Enlace](https://www.openwall.com/passwords/windows-pwdump) | 🆓 | 🎯 |
-| PowerShell Empire | Framework de post-explotación con módulos de volcado de credenciales. | [Enlace](https://github.com/BC-SECURITY/Empire) | 🆓 | 🎯 |
+| Mimikatz | Extrae contraseñas, hashes y tickets Kerberos de la memoria de Windows. | [Enlace](https://github.com/gentilkiwi/mimikatz) | 🆓 | ✅ |
+| pwdump7 | Vuelca los hashes de la SAM de Windows. | [Enlace](https://www.openwall.com/passwords/windows-pwdump) | 🆓 | ✅ |
+| PowerShell Empire | Framework de post-explotación con módulos de volcado de credenciales. | [Enlace](https://github.com/BC-SECURITY/Empire) | 🆓 | ✅ |
 | DSInternals | Módulo PowerShell para interactuar con la base de datos de AD (ntds.dit). | [Enlace](https://github.com/MichaelGrafnetter/DSInternals) | 🆓 | 🎯 |
 | Ntdsxtract | Extrae información y hashes de volcados de `ntds.dit`. | [Enlace](https://github.com/csababarta/ntdsxtract) | 🆓 | 🎯 |
 
@@ -62,9 +62,9 @@ Ataques a credenciales en entornos autorizados: *password spraying*, fuerza brut
 
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
-| CeWL | Genera diccionarios a partir del contenido de un sitio web. | [Enlace](https://github.com/digininja/CeWL) | 🆓 | 📚 |
+| CeWL | Genera diccionarios a partir del contenido de un sitio web. | [Enlace](https://github.com/digininja/CeWL) | 🆓 | ✅ |
 | Crunch | Generador de wordlists por patrones y rangos de caracteres. | [Enlace](https://sourceforge.net/projects/crunch-wordlist/) | 🆓 | 📚 |
-| CUPP | Genera diccionarios personalizados a partir del perfil de una persona. | [Enlace](https://github.com/Mebus/cupp) | 🆓 | 📚 |
+| CUPP | Genera diccionarios personalizados a partir del perfil de una persona. | [Enlace](https://github.com/Mebus/cupp) | 🆓 | ✅ |
 
 ## 🔎 Identificación de hashes
 
