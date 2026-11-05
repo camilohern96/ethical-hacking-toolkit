@@ -18,8 +18,8 @@ Fase posterior al acceso inicial en ejercicios autorizados: enumeración local, 
 | GTFOBins | Catálogo de binarios Unix abusables para *bypass* y escalada. | [Enlace](https://gtfobins.github.io/) | 🆓 | 📚 |
 | LOLBAS | Catálogo de binarios/scripts legítimos de Windows abusables. | [Enlace](https://lolbas-project.github.io/) | 🆓 | 📚 |
 | pspy | Monitorea procesos y tareas cron sin privilegios (Linux). | [Enlace](https://github.com/DominicBreuker/pspy) | 🆓 | 📚 |
-| BeRoot | Comprueba configuraciones que permiten escalar privilegios (Win/Linux/Mac). | [Enlace](https://github.com/AlessandroZ/BeRoot) | 🆓 | 🎯 |
-| PowerSploit | Conjunto de módulos PowerShell para post-explotación y escalada. | [Enlace](https://github.com/PowerShellMafia/PowerSploit) | 🆓 | 📚 |
+| BeRoot | Comprueba configuraciones que permiten escalar privilegios (Win/Linux/Mac). | [Enlace](https://github.com/AlessandroZ/BeRoot) | 🆓 | ✅ |
+| PowerSploit | Conjunto de módulos PowerShell para post-explotación y escalada. | [Enlace](https://github.com/PowerShellMafia/PowerSploit) | 🆓 | ✅ |
 | FullPowers | Restaura los privilegios de una cuenta de servicio en Windows. | [Enlace](https://github.com/itm4n/FullPowers) | 🆓 | 🎯 |
 | WES-NG (Windows Exploit Suggester) | Sugiere exploits de escalada según el nivel de parches de Windows. | [Enlace](https://github.com/bitsadmin/wesng) | 🆓 | 🎯 |
 
@@ -27,9 +27,9 @@ Fase posterior al acceso inicial en ejercicios autorizados: enumeración local, 
 
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
-| PsExec (Sysinternals) | Ejecuta procesos en sistemas Windows remotos. | [Enlace](https://learn.microsoft.com/sysinternals/downloads/psexec) | 🆓 | 📚 |
+| PsExec (Sysinternals) | Ejecuta procesos en sistemas Windows remotos. | [Enlace](https://learn.microsoft.com/sysinternals/downloads/psexec) | 🆓 | ✅ |
 | CrackMapExec / NetExec | Ejecución y movimiento lateral masivo en redes AD. | [Enlace](https://github.com/Pennyw0rth/NetExec) | 🆓 | 📚 |
-| Pupy | RAT multiplataforma de post-explotación y C2. | [Enlace](https://github.com/n1nj4sec/pupy) | 🆓 | 🎯 |
+| Pupy | RAT multiplataforma de post-explotación y C2. | [Enlace](https://github.com/n1nj4sec/pupy) | 🆓 | ✅ |
 | PDQ Deploy | Despliegue remoto de software (abusable para ejecución). | [Enlace](https://www.pdq.com) | 💰 | 🎯 |
 | Dameware Remote Support | Soporte y control remoto de equipos. | [Enlace](https://www.dameware.com) | 💰 | 🎯 |
 | ManageEngine Endpoint Central | Gestión y despliegue centralizado de endpoints. | [Enlace](https://www.manageengine.com/products/desktop-central/) | 🟡 | 🎯 |
@@ -45,7 +45,7 @@ Fase posterior al acceso inicial en ejercicios autorizados: enumeración local, 
 
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
-| Sliver | Framework C2 open source para *adversary simulation*. | [Enlace](https://github.com/BishopFox/sliver) | 🆓 | 📚 |
+| Sliver | Framework C2 open source para *adversary simulation*. | [Enlace](https://github.com/BishopFox/sliver) | 🆓 | ✅ |
 | Mythic | Framework C2 modular y colaborativo. | [Enlace](https://github.com/its-a-feature/Mythic) | 🆓 | 🎯 |
 | PowerShell Empire | Framework C2 basado en PowerShell/Python. | [Enlace](https://github.com/BC-SECURITY/Empire) | 🆓 | 🎯 |
 | Cobalt Strike | Plataforma comercial de *adversary simulation*. | [Enlace](https://www.cobaltstrike.com/) | 💰 | 📚 |
@@ -64,7 +64,7 @@ Fase posterior al acceso inicial en ejercicios autorizados: enumeración local, 
 
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
-| Spyrix Free Keylogger | Registra pulsaciones y actividad en Windows. | [Enlace](https://www.spyrix.com) | 🆓 | 🎯 |
+| Spyrix Free Keylogger | Registra pulsaciones y actividad en Windows. | [Enlace](https://www.spyrix.com) | 🆓 | ✅ |
 | REFOG Keylogger | Monitoreo de actividad y pulsaciones. | [Enlace](https://www.refog.com) | 💰 | 🎯 |
 | StaffCop | Monitoreo de actividad de empleados (entornos corporativos). | [Enlace](https://www.staffcop.com) | 💰 | 🎯 |
 | Spytech SpyAgent | Software de monitoreo de actividad. | [Enlace](https://www.spytech-web.com) | 💰 | 🎯 |
@@ -75,7 +75,7 @@ Fase posterior al acceso inicial en ejercicios autorizados: enumeración local, 
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
 | BleachBit | Limpia archivos temporales, caché e historial del sistema. | [Enlace](https://www.bleachbit.org) | 🆓 | 🎯 |
-| CCleaner | Limpieza de rastros y archivos temporales en Windows. | [Enlace](https://www.ccleaner.com) | 🟡 | 🎯 |
+| CCleaner | Limpieza de rastros y archivos temporales en Windows. | [Enlace](https://www.ccleaner.com) | 🟡 | ✅ |
 | Privacy Eraser | Borra historial y rastros de actividad. | [Enlace](https://www.cybertronsoft.com) | 🟡 | 🎯 |
 | DBAN | Borrado seguro de discos completos. | [Enlace](https://dban.org) | 🆓 | 🎯 |
 | cipher.exe / fsutil | Comandos nativos de Windows para sobrescribir espacio libre y gestionar marcas de tiempo. | [Enlace](https://learn.microsoft.com/windows-server/administration/windows-commands/cipher) | 🆓 | 🎯 |
