@@ -16,8 +16,8 @@ Análisis de tráfico, ataques de capa 2 (DHCP, ARP, DNS, MAC) y auditoría WiFi
 
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
-| Wireshark | Analizador de protocolos de referencia para inspeccionar tráfico. | [Enlace](https://www.wireshark.org) | 🆓 | 📚 |
-| tcpdump | Captura de tráfico por línea de comandos. | [Enlace](https://www.tcpdump.org) | 🆓 | 📚 |
+| Wireshark | Analizador de protocolos de referencia para inspeccionar tráfico. | [Enlace](https://www.wireshark.org) | 🆓 | ✅ |
+| tcpdump | Captura de tráfico por línea de comandos. | [Enlace](https://www.tcpdump.org) | 🆓 | ✅ |
 | Colasoft Capsa | Analizador de red con detección de anomalías y diagnóstico. | [Enlace](https://www.colasoft.com/capsa/) | 🟡 | 🎯 |
 | Xplico | Herramienta de análisis forense de red que reconstruye sesiones. | [Enlace](https://www.xplico.org) | 🆓 | 🎯 |
 | RITA | Analiza logs de red para detectar C2 y *beaconing*. | [Enlace](https://www.activecountermeasures.com/free-tools/rita/) | 🆓 | 🎯 |
@@ -27,8 +27,8 @@ Análisis de tráfico, ataques de capa 2 (DHCP, ARP, DNS, MAC) y auditoría WiFi
 
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
-| Yersinia | Ataques a protocolos de capa 2 (DHCP starvation, STP, etc.). | [Enlace](https://github.com/tomac/yersinia) | 🆓 | 🎯 |
-| DHCPig | Agota el pool de direcciones de un servidor DHCP (DHCP starvation). | [Enlace](https://github.com/kamorin/DHCPig) | 🆓 | 🎯 |
+| Yersinia | Ataques a protocolos de capa 2 (DHCP starvation, STP, etc.). | [Enlace](https://github.com/tomac/yersinia) | 🆓 | ✅ |
+| DHCPig | Agota el pool de direcciones de un servidor DHCP (DHCP starvation). | [Enlace](https://github.com/kamorin/DHCPig) | 🆓 | ✅ |
 | mitm6 | Abusa de IPv6/DHCPv6 para posicionarse como MITM en redes Windows. | [Enlace](https://github.com/dirkjanm/mitm6) | 🆓 | 📚 |
 | Hyenae | Generador de paquetes para pruebas de inundación y spoofing. | [Enlace](https://sourceforge.net/projects/hyenae/) | 🆓 | 🎯 |
 
@@ -36,10 +36,10 @@ Análisis de tráfico, ataques de capa 2 (DHCP, ARP, DNS, MAC) y auditoría WiFi
 
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
-| Bettercap | Framework completo de MITM, sniffing y manipulación de tráfico. | [Enlace](https://www.bettercap.org) | 🆓 | 📚 |
-| Ettercap | Suite clásica para ataques MITM y ARP poisoning. | [Enlace](https://www.ettercap-project.org) | 🆓 | 📚 |
-| dsniff / arpspoof | Conjunto de herramientas de sniffing e interceptación (incluye arpspoof). | [Enlace](https://www.monkey.org/~dugsong/dsniff/) | 🆓 | 📚 |
-| Responder | Envenenamiento LLMNR/NBT-NS/mDNS para capturar credenciales. | [Enlace](https://github.com/lgandx/Responder) | 🆓 | 📚 |
+| Bettercap | Framework completo de MITM, sniffing y manipulación de tráfico. | [Enlace](https://www.bettercap.org) | 🆓 | ✅ |
+| Ettercap | Suite clásica para ataques MITM y ARP poisoning. | [Enlace](https://www.ettercap-project.org) | 🆓 | ✅ |
+| dsniff / arpspoof | Conjunto de herramientas de sniffing e interceptación (incluye arpspoof). | [Enlace](https://www.monkey.org/~dugsong/dsniff/) | 🆓 | ✅ |
+| Responder | Envenenamiento LLMNR/NBT-NS/mDNS para capturar credenciales. | [Enlace](https://github.com/lgandx/Responder) | 🆓 | ✅ |
 | MITMf | Framework de ataques MITM (mantenimiento detenido). | [Enlace](https://github.com/byt3bl33d3r/MITMf) | 🆓 | 🎯 |
 | Habu | Utilidades de ataques de red para aprendizaje (ARP, DHCP, etc.). | [Enlace](https://github.com/portantier/habu) | 🆓 | 🎯 |
 
@@ -56,7 +56,7 @@ Análisis de tráfico, ataques de capa 2 (DHCP, ARP, DNS, MAC) y auditoría WiFi
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
 | Technitium MAC Address Changer | Cambia la dirección MAC de los adaptadores en Windows. | [Enlace](https://technitium.com/tmac/) | 🆓 | 🎯 |
-| SMAC | Cambiador de direcciones MAC para Windows. | [Enlace](https://www.klcconsulting.net/smac/) | 💰 | 🎯 |
+| SMAC | Cambiador de direcciones MAC para Windows. | [Enlace](https://www.klcconsulting.net/smac/) | 💰 | ✅ |
 | macchanger | Cambia la MAC en Linux. | [Enlace](https://github.com/alobbs/macchanger) | 🆓 | 📚 |
 
 ## 🌐 Suplantación de DNS
@@ -64,13 +64,13 @@ Análisis de tráfico, ataques de capa 2 (DHCP, ARP, DNS, MAC) y auditoría WiFi
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
 | Evilgrade | Inyecta actualizaciones maliciosas abusando de mecanismos de update. | [Enlace](https://github.com/infobyte/evilgrade) | 🆓 | 🎯 |
-| Ettercap (plugin dns_spoof) | Redirige dominios mediante envenenamiento DNS en MITM. | [Enlace](https://www.ettercap-project.org) | 🆓 | 📚 |
+| Ettercap (plugin dns_spoof) | Redirige dominios mediante envenenamiento DNS en MITM. | [Enlace](https://www.ettercap-project.org) | 🆓 | ✅ |
 
 ## 📶 Inalámbricas (WiFi / Bluetooth)
 
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
-| Aircrack-ng | Suite de auditoría WiFi (captura, inyección y cracking WEP/WPA). | [Enlace](https://www.aircrack-ng.org) | 🆓 | 📚 |
+| Aircrack-ng | Suite de auditoría WiFi (captura, inyección y cracking WEP/WPA). | [Enlace](https://www.aircrack-ng.org) | 🆓 | ✅ |
 | Kismet | Detector de redes y sniffer inalámbrico. | [Enlace](https://www.kismetwireless.net) | 🆓 | 📚 |
 | Wifite2 | Automatiza auditorías WiFi sobre aircrack-ng. | [Enlace](https://github.com/derv82/wifite2) | 🆓 | 🎯 |
 | btlejack | Auditoría de Bluetooth Low Energy (BLE). | [Enlace](https://github.com/virtualabs/btlejack) | 🆓 | 🎯 |
@@ -80,7 +80,7 @@ Análisis de tráfico, ataques de capa 2 (DHCP, ARP, DNS, MAC) y auditoría WiFi
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
 | Packet Capture | Captura de tráfico en Android sin root (MITM local). | *app de tienda, sin enlace oficial estable* | 🆓 | 🎯 |
-| Sniffer Wicap | Sniffer de red para Android. | *app de tienda, sin enlace oficial estable* | 🆓 | 🎯 |
+| Sniffer Wicap | Sniffer de red para Android. | *app de tienda, sin enlace oficial estable* | 🆓 | ✅ |
 
 ---
 
