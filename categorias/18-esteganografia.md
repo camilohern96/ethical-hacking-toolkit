@@ -14,8 +14,8 @@ Herramientas para **ocultar información** dentro de otros archivos (imagen, aud
 
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
-| OpenStego | Oculta datos en imágenes y añade marcas de agua. | [Enlace](https://www.openstego.com) | 🆓 | 📚 |
-| StegOnline | Herramienta web para ocultar/extraer datos en imágenes (LSB). | [Enlace](https://georgeom.net/StegOnline/) | 🆓 | 🎯 |
+| OpenStego | Oculta datos en imágenes y añade marcas de agua. | [Enlace](https://www.openstego.com) | 🆓 | ✅ |
+| StegOnline | Herramienta web para ocultar/extraer datos en imágenes (LSB). | [Enlace](https://georgeom.net/StegOnline/) | 🆓 | ✅ |
 | Steghide | Oculta datos en imágenes y audio con cifrado (clásica de CLI). | [Enlace](https://steghide.sourceforge.net) | 🆓 | 📚 |
 | QuickStego | Oculta texto dentro de imágenes de forma sencilla. | [Enlace](https://quickcrypto.com/free-steganography-software.html) | 🆓 | 🎯 |
 | CryptaPix | Cifra y oculta información en imágenes. | [Enlace](https://www.briggsoft.com/cryptapix.htm) | 🟡 | 🎯 |
@@ -25,7 +25,7 @@ Herramientas para **ocultar información** dentro de otros archivos (imagen, aud
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
 | DeepSound | Oculta datos dentro de archivos de audio. | [Enlace](http://jpinsoft.net/deepsound/) | 🆓 | 🎯 |
-| MP3Stego | Oculta información durante la compresión de un MP3. | [Enlace](https://www.petitcolas.net/steganography/mp3stego/) | 🆓 | 🎯 |
+| MP3Stego | Oculta información durante la compresión de un MP3. | [Enlace](https://www.petitcolas.net/steganography/mp3stego/) | 🆓 | ✅ |
 | Coagula | Genera/oculta información en el espectrograma de audio. | [Enlace](https://www.abc.se/~re/Coagula/Coagula.html) | 🆓 | 🎯 |
 
 ## 🎞️ Esteganografía en video
@@ -40,7 +40,7 @@ Herramientas para **ocultar información** dentro de otros archivos (imagen, aud
 
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
-| SNOW | Oculta datos usando espacios y tabulaciones al final de líneas. | [Enlace](https://darkside.com.au/snow/) | 🆓 | 🎯 |
+| SNOW | Oculta datos usando espacios y tabulaciones al final de líneas. | [Enlace](https://darkside.com.au/snow/) | 🆓 | ✅ |
 
 ## 📁 Esteganografía / cifrado de carpetas
 
@@ -59,7 +59,7 @@ Herramientas para **ocultar información** dentro de otros archivos (imagen, aud
 
 | Herramienta | Para qué sirve | Enlace | Precio | Estado |
 |-------------|----------------|--------| :------: |:------:|
-| zsteg | Detecta datos ocultos (LSB) en imágenes PNG/BMP. | [Enlace](https://github.com/zed-0xff/zsteg) | 🆓 | 📚 |
+| zsteg | Detecta datos ocultos (LSB) en imágenes PNG/BMP. | [Enlace](https://github.com/zed-0xff/zsteg) | 🆓 | ✅ |
 | stegoVeritas | Analiza imágenes aplicando múltiples técnicas de extracción. | [Enlace](https://github.com/bannsec/stegoVeritas) | 🆓 | 🎯 |
 | Stegextract | Extrae datos y archivos ocultos de imágenes. | [Enlace](https://github.com/evyatarmeged/Stegextract) | 🆓 | 🎯 |
 | StegoHunt | Herramienta comercial de detección de esteganografía (WetStone). | [Enlace](https://www.wetstonetech.com) | 💰 | 🎯 |
